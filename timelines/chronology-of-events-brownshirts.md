@@ -19,9 +19,9 @@ Creation of the [Inner Shield](/devices/inner-shield/), [Outer Shield](/devices/
 
 Descent to physical form in preparation for fleeing Von Neumann machines consuming home universe.
 
-First portal established to Alek's universe. Encounter with the [Dreamer On High](/entities/dreamer-on-high/).
+First portal established to [Alek's](/people/alek-staley/) universe. Encounter with the [Dreamer On High](/entities/dreamer-on-high/).
 
-Flight from Alek's universe during/after the destruction of the [Dreamer On High](/entities/dreamer-on-high/) to a universe entirely consumed by [Sentient Flames](/entities/sentient-flame/).
+Flight from [Alek's](/people/alek-staley/) universe during/after the destruction of the [Dreamer On High](/entities/dreamer-on-high/) to a universe entirely consumed by [Sentient Flames](/entities/sentient-flame/).
 
 Flight from [Sentient Flames](/entities/sentient-flame/) universe to [Cordyceps Fungus](/entities/cordyceps-fungus/) universe. Number of [Brownshirt](/races/brownshirt/) community lost to fungus, later encountered briefly by [Cristina Thompson](/people/cristina-thompson/).
 
