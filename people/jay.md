@@ -25,7 +25,7 @@ Jay later teamed up with [Danny](/people/danny), [Conn Thompson](/people/conn-th
 
 Jay has two daughters (Madison and Chloe), which is why he remained as a caretaker for his world.
 
-Jay was part of the volunteer assault force attacking [The Black-eyed Army](/people/the-black-eyed-army) during [The Battle of the Capital Temple](/events/the-battle-of-the-capital-temple), and subsequently became one of many assisting in amputating the [GLORWOC](/entities/glorwoc) infected leg of the [Mictlan](/entities/mictlan), as well as the infected portion of [Animal Shadow](/entities/animal-shadow) flesh. He subsequently escaped the [Capital Temple](/entities/capital-temple) with the assistance of the [Shadow Entities](/entities/shadow-entities) and landed within a farm reality.
+Jay was part of the volunteer assault force attacking [The Black-eyed Army](/people/the-black-eyed-army) during [The Battle of the Capital Temple](/events/the-battle-of-the-capital-temple), and subsequently became one of many assisting in amputating the [GLORWOC](/entities/glorwoc) infected leg of the [Mictlan](/entities/corpse-thing/), as well as the infected portion of [Animal Shadow](/entities/animal-shadow) flesh. He subsequently escaped the [Capital Temple](/entities/capital-temple) with the assistance of the [Shadow Entities](/entities/shadow-entities) and landed within a farm reality.
 
 Jay survived the events of [The Crushing Fist](/entities/the-crushing-fist), as did Madison, Chloe and his wife. They have since returned to their home reality as part of a controlled exodus, escorted by [Ward Shaw](/people/ward-shaw-the-sword) and other members of [The Black-eyed Army](/people/the-black-eyed-army), along with [Noah Fulmer](/people/noah-fulmer).
 
