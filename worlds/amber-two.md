@@ -5,7 +5,9 @@ pending: false
 lastmod: 2025-08-01T00:00:00Z
 ---
 
-First Referenced:
+# Amber Two
+
+**First Referenced:**
 
 Our Final Acts (Part 8)
 

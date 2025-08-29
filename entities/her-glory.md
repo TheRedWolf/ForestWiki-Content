@@ -5,7 +5,9 @@ pending: false
 lastmod: 2025-08-01T00:00:00Z
 ---
 
-First Referenced:
+# Her Glory (aka Gisela)
+
+**First Referenced:**
 
 The Moon Aflame (Exodus Chapter 4)
 

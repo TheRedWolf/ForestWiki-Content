@@ -5,7 +5,9 @@ pending: false
 lastmod: 2025-08-01T00:00:00Z
 ---
 
-First Referenced:
+# Jelly-biter
+
+**First Referenced:**
 
 'I was told that everyone I'd served with in the military died shortly after I left. (Part 5)'
 

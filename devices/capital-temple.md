@@ -4,7 +4,10 @@ draft: false
 pending: false
 lastmod: 2025-08-01T00:00:00Z
 ---
-First Referenced:
+
+# Capital Temple
+
+**First Referenced:**
 
 Our Final Acts
 

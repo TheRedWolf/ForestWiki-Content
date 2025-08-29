@@ -4,7 +4,10 @@ draft: false
 pending: false
 lastmod: 2025-08-01T00:00:00Z
 ---
-First Referenced:
+
+# Amethyst Suicide Device
+
+**First Referenced:**
 
 Our Final Acts (Part 6)
 
