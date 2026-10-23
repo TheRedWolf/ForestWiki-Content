@@ -2,6 +2,7 @@
 title: "Command"
 draft: false
 pending: false
+lastmod: 2026-10-23T00:00:00Z
 ---
 
 # Command
@@ -14,7 +15,7 @@ The Desolate Guardians (Part 3)
 
 'I was told that everyone I'd served with in the military died shortly after I left.'
 
-Command is the generic name given to the multiverse military force formed by [The First World](/worlds/the-first-world). Its operations extend to many different universes, and it works to maintain both the inner and outer shields around the area of the multiverse populated by humans. Command also builds, maintains and operates the [Portal hub facility](/devices/portal-hub-facility) installations, along with other military installations such as those used for producing the [Dimensional Fracture Bomb](/devices/dimensional-fracture-bomb), and [Teskoy Prison](/entities/teskoy-prison).
+Command is the generic name given to the multiverse military force formed by [The First World](/worlds/the-first-world). Its operations extend to many different universes, and it works to maintain both the inner and outer shields around the area of the multiverse populated by humans. Command also builds, maintains and operates the [Portal hub facility](/devices/portal-hub-facility) installations, along with other military installations such as those used for producing the [Dimensional Fracture Bomb](/devices/dimensional-fracture-bomb), and [Teskoy Prison](/devices/teskoy-prison).
 
 Command has vast human resources from multiple realities at its disposal, such as the force dispatched to the world of [Jonathan Cortin](/people/jonathan-cortin) to try and clean things up after a failed test of a device that turned out to be a [Dimensional Fracture Bomb](/devices/dimensional-fracture-bomb).
 

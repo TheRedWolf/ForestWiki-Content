@@ -2,7 +2,7 @@
 title: "Corpse-thing"
 draft: false
 pending: false
-lastmod: 2025-08-01T00:00:00Z
+lastmod: 2026-10-23T00:00:00Z
 ---
 
 # Corpse-thing (aka Mictlan)
@@ -21,9 +21,9 @@ Both the gargantuan metallic construct and the re-animated corpses are collectiv
 
 The Mictlan were also encountered by refugees fleeing inwards from the effects of [The Crushing Fist](/unknown/the-crushing-fist/).
 
-[Heath](/people/heath/) has been aware of the Mictlan through reports sent by various fighters working for [The Council](/unknown/the-council/). From his observations it would appear the Mictlan, while very dangerous and hostile, are also fleeing inwards, away from the devastation and darkness of The Crushing Fist. [Alek](/people/alek/) and a number of volunteers have attempted to make contact with the Mictlan, although they expect such an effort to result in their own deaths.
+[Heath](/people/heath/) has been aware of the Mictlan through reports sent by various fighters working for [The Council](/unknown/the-council/). From his observations it would appear the Mictlan, while very dangerous and hostile, are also fleeing inwards, away from the devastation and darkness of The Crushing Fist. [Alek](/people/alek-staley/) and a number of volunteers have attempted to make contact with the Mictlan, although they expect such an effort to result in their own deaths.
 
-The Mictlan controller joined [The Battle of the Capital Temple](/timelines/chronology-of-events-the-battle-of-the-capital-temple/), gaining an additional horde of at least half a million corpses. It then directly engaged the [Shadow Entities](/entities/shadow-entities/) and [Animal Shadows](/entities/animal-shadow/). After becoming partially infected by [GLORWOC](/entities/glorwoc/), the Mictlan controller had one of its eight limbs amputated to prevent further infection. During the amputation it was discovered by [Jay](/people/jay/) than the Mictlan controller is at least a partially organic entity.
+The Mictlan controller joined [The Battle of the Capital Temple](/timelines/chronology-of-events-the-battle-of-the-capital-temple/), gaining an additional horde of at least half a million corpses. It then directly engaged the [Shadow Entities](/entities/shadow-entity/) and [Animal Shadows](/entities/animal-shadow/). After becoming partially infected by [GLORWOC](/entities/glorwoc/), the Mictlan controller had one of its eight limbs amputated to prevent further infection. During the amputation it was discovered by [Jay](/people/jay/) than the Mictlan controller is at least a partially organic entity.
 
 **Traits:**
 

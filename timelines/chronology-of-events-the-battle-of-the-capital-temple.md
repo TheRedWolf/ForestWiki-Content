@@ -2,7 +2,7 @@
 title: "Chronology of Events - The Battle of the Capital Temple"
 draft: false
 pending: false
-lastmod: 2025-08-01T00:00:00Z
+lastmod: 2026-10-23T00:00:00Z
 ---
 
 # Chronology of Events - The Battle of the Capital Temple
@@ -17,17 +17,17 @@ Opening of a [Portal (Brownshirt)](/devices/portal-brownshirt/) by [Thomas](/peo
 
 Loss of multiple [Farming Worlds](/worlds/farming-world/) due to inter-dimensional friction which causes major tectonic activity. Population evacuation commenced.
 
-[Alek](/people/alek/) travels to a previously protected [Branch World](/worlds/branch-world/) via [Earth 44](/worlds/earth-44/) to enter through cracks in its shield. Encounters the [Mictlan](/entities/corpse-thing/) already there. Attempts to communicate with the [Mictlan](/entities/corpse-thing/).
+[Alek](/people/alek-staley/) travels to a previously protected [Branch World](/worlds/branch-world/) via [Earth 44](/worlds/earth-44/) to enter through cracks in its shield. Encounters the [Mictlan](/entities/corpse-thing/) already there. Attempts to communicate with the [Mictlan](/entities/corpse-thing/).
 
 Transit of [Noah Fulmer](/people/noah-fulmer/) to the [Capital Temple](/devices/capital-temple/) pocket universe with a small volunteer force including [Jay](/people/jay/), [Roger](/people/roger/) and [Chris](/people/chris/), to deliver the [Key Program](/devices/key-program/) and connect [Heath](/people/heath/) to the shield generators.
 
 Engagement with and destruction of [Rothman](/people/rothman/) and many other members of [The Black-eyed Army](/people/the-black-eyed-army/), total surviving members of [The Black-eyed Army](/people/the-black-eyed-army/) reduced to 200.
 
-[The Black-eyed Army](/people/the-black-eyed-army/) summon the assistance of the [Shadow Entities](/entities/shadow-entities/) by cracking the wall of the pocket reality and disrupting one of the shield generator beams. [Shadow Entities](/entities/shadow-entities/) deploy a horde of [Shadow Spheres](/entities/shadow-sphere/), generating [The Ink](/unknown/the-ink/) across the battlefield.
+[The Black-eyed Army](/people/the-black-eyed-army/) summon the assistance of the [Shadow Entities](/entities/shadow-entity/) by cracking the wall of the pocket reality and disrupting one of the shield generator beams. [Shadow Entities](/entities/shadow-entity/) deploy a horde of [Shadow Spheres](/unknown/shadow-sphere/), generating [The Ink](/unknown/the-ink/) across the battlefield.
 
-The [Mictlan](/entities/corpse-thing/) arrive via a portal and join the battle against the physical constructs of the [Shadow Entities](/entities/shadow-entities/) ([Animal Shadows](/entities/animal-shadow/)) which inhabit [The Ink](/unknown/the-ink/). Corpses of the dead reanimated as [Corpse-things](/entities/corpse-thing/).
+The [Mictlan](/entities/corpse-thing/) arrive via a portal and join the battle against the physical constructs of the [Shadow Entities](/entities/shadow-entity/) ([Animal Shadows](/entities/animal-shadow/)) which inhabit [The Ink](/unknown/the-ink/). Corpses of the dead reanimated as [Corpse-things](/entities/corpse-thing/).
 
-Retreat of surviving [Animal Shadows](/entities/animal-shadow/) and of [The Ink](/unknown/the-ink/) back to the [Shadow Spheres](/entities/shadow-sphere/)
+Retreat of surviving [Animal Shadows](/entities/animal-shadow/) and of [The Ink](/unknown/the-ink/) back to the [Shadow Spheres](/unknown/shadow-sphere/)
 
 [Heath](/people/heath/) and the [Key Program](/devices/key-program/) successfully delivered to the [Capital Temple](/devices/capital-temple/). Shield regeneration commenced.
 
@@ -37,9 +37,9 @@ Damage to one of the eight legs of the [Mictlan](/entities/corpse-thing/) contro
 
 Arrival of [GLORWOC](/entities/glorwoc/) through infected and delusional desolate guardian. [GLORWOC](/entities/glorwoc/) infection spread to the [Capital Temple](/devices/capital-temple/), [Mictlan](/entities/corpse-thing/) [Corpse-things](/entities/corpse-thing/) and Shadow Protuberance.
 
-Truce declared between [Shadow Entities](/entities/shadow-entities/), [The Black-eyed Army](/people/the-black-eyed-army/), the volunteer assault forces of [The Council](/unknown/the-council/), and the [Mictlan](/entities/corpse-thing/)
+Truce declared between [Shadow Entities](/entities/shadow-entity/), [The Black-eyed Army](/people/the-black-eyed-army/), the volunteer assault forces of [The Council](/unknown/the-council/), and the [Mictlan](/entities/corpse-thing/)
 
-Alliance forged by [Danny](/people/danny/) between the [Shadow Entities](/entities/shadow-entities/), [The Black-eyed Army](/people/the-black-eyed-army/), [The Council](/unknown/the-council/) (representing humanity), the [Brownshirts](/races/brownshirt/), and the [Mictlan](/entities/corpse-thing/). Entry to the core of the [Capital Temple](/devices/capital-temple/) by all parties to the alliance.
+Alliance forged by [Danny](/people/danny/) between the [Shadow Entities](/entities/shadow-entity/), [The Black-eyed Army](/people/the-black-eyed-army/), [The Council](/unknown/the-council/) (representing humanity), the [Brownshirts](/races/brownshirt/), and the [Mictlan](/entities/corpse-thing/). Entry to the core of the [Capital Temple](/devices/capital-temple/) by all parties to the alliance.
 
 Agreement by the new alliance to perform mass amputations, to prevent further spread of [GLORWOC](/entities/glorwoc/)
 

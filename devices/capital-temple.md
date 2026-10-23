@@ -2,7 +2,7 @@
 title: "Capital Temple"
 draft: false
 pending: false
-lastmod: 2025-08-01T00:00:00Z
+lastmod: 2026-10-23T00:00:00Z
 ---
 
 # Capital Temple
@@ -29,7 +29,7 @@ The [Battle of the Capital Temple](/timelines/chronology-of-events-the-battle-of
 
 The Capital Temple and the battleground has subsequently been infected with [GLORWOC](/entities/glorwoc/), which has also infected the [Mictlan](/entities/corpse-thing/) and shadow forces.
 
-Due to the infection of [GLORWOC](/entities/glorwoc/), an alliance has been forged by [Danny](/people/danny/) between [The Council](/unknown/the-council/), the Brownshirts, The Black-eyed Army, the [Mictlan](/entities/corpse-thing/) and the [Shadow Entities](/entities/shadow-entity.md). However, the compression of [The Crushing Fist](/unknown/the-crushing-fist/) has continued, resulting in dimensional ruptures and placing the generator mechanisms under further pressure.
+Due to the infection of [GLORWOC](/entities/glorwoc/), an alliance has been forged by [Danny](/people/danny/) between [The Council](/unknown/the-council/), the Brownshirts, The Black-eyed Army, the [Mictlan](/entities/corpse-thing/) and the [Shadow Entities](/entities/shadow-entity). However, the compression of [The Crushing Fist](/unknown/the-crushing-fist/) has continued, resulting in dimensional ruptures and placing the generator mechanisms under further pressure.
 
 ## Evacuation of the Capital Temple
 

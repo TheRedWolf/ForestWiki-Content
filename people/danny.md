@@ -2,7 +2,7 @@
 title: "Danny"
 draft: false
 pending: false
-lastmod: 2025-08-01T00:00:00Z
+lastmod: 2026-10-23T00:00:00Z
 ---
 
 # Danny
@@ -27,7 +27,7 @@ Danny suffered extreme brain damage due to observing the undisguised structure o
 
 After the loss of [Cristina Thompson](/people/cristina-thompson) through a portal to [The First World](/worlds/the-first-world), he became the [Soul Reader (Book)](/devices/soul-reader-book)'s primary user, using it to read both [Heath](/people/heath)'s and [Conn Thompson](/people/conn-thompson)'s souls.
 
-Danny's current situation is unknown, however he has previously been in charge of a group of nearly a hundred people including [Alek](/people/alek-staley), [Thomas](/people/thomas), [Conn Thompson](/people/conn-thompson), [Jay](/people/jay) and many others, who were working along with [Heath](/people/heath) to stop [The Crushing Fist](/entities/the-crushing-fist) and rescue the missing [Brownshirts](/entities/brownshirt) and [Cristina Thompson](/people/cristina-thompson).
+Danny's current situation is unknown, however he has previously been in charge of a group of nearly a hundred people including [Alek](/people/alek-staley), [Thomas](/people/thomas), [Conn Thompson](/people/conn-thompson), [Jay](/people/jay) and many others, who were working along with [Heath](/people/heath) to stop [The Crushing Fist](/unknown/the-crushing-fist) and rescue the missing [Brownshirts](/races/brownshirt) and [Cristina Thompson](/people/cristina-thompson).
 
 **Traits:**
 - Natural leader of the group of children who discovered the portal in the forest.

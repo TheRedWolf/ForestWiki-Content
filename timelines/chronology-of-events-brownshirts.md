@@ -2,7 +2,7 @@
 title: "Chronology of Events - Brownshirts"
 draft: false
 pending: false
-lastmod: 2025-08-01T00:00:00Z
+lastmod: 2026-10-23T00:00:00Z
 ---
 
 # Chronology of Events - Brownshirts
@@ -33,7 +33,7 @@ Loss of [Thomas](/people/thomas/)' mother after unknown traversals of reality.
 
 Random traversal of realities by [Thomas](/people/thomas/), until arrival in the universe of [Danny](/people/danny/), where [Cristina Thompson](/people/cristina-thompson/) was also temporarily based.
 
-Imprisonment of surviving [Brownshirts](/races/brownshirt/) in [Teskoy Prison](/devices/teskoy-prison/), blamed along with [The Sword](/people/the-sword/) for bringing [The Crushing Fist](/unknown/the-crushing-fist/) down on the multiverse by the inhabitants of [The First World](/worlds/the-first-world/).
+Imprisonment of surviving [Brownshirts](/races/brownshirt/) in [Teskoy Prison](/devices/teskoy-prison/), blamed along with [The Sword](/people/ward-shaw-the-sword/) for bringing [The Crushing Fist](/unknown/the-crushing-fist/) down on the multiverse by the inhabitants of [The First World](/worlds/the-first-world/).
 
 Rescue of surviving [Brownshirts](/races/brownshirt/) from [Teskoy Prison](/devices/teskoy-prison/) by [Danny](/people/danny/) and the others in a rescue party which included [Conn Thompson](/people/conn-thompson/).
 
