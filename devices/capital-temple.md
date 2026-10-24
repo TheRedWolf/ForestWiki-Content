@@ -25,11 +25,11 @@ The Capital Temple artificial pocket universe is confirmed to at most be the siz
 
 ## The Battle of the Capital Temple
 
-The [Battle of the Capital Temple](/timelines/chronology-of-events-the-battle-of-the-capital-temple/) took place between the volunteer assault forces of [The Council](/unknown/the-council/) against [The Black-eyed Army](/people/the-black-eyed-army/), and later included the [Mictlan](/entities/corpse-thing/). While the number of casualties for The Black-eyed Army is unknown, their number has been reduced to no more than two hundred, while the casualties of the volunteer assault force is known to be above half a million dead, which have subsequently been claimed by the [Mictlan](/entities/corpse-thing/).
+The [Battle of the Capital Temple](/timelines/chronology-of-events-the-battle-of-the-capital-temple/) took place between the volunteer assault forces of [The Council](/people/the-council/)) against [The Black-eyed Army](/people/the-black-eyed-army/), and later included the [Mictlan](/entities/corpse-thing/). While the number of casualties for The Black-eyed Army is unknown, their number has been reduced to no more than two hundred, while the casualties of the volunteer assault force is known to be above half a million dead, which have subsequently been claimed by the [Mictlan](/entities/corpse-thing/).
 
 The Capital Temple and the battleground has subsequently been infected with [GLORWOC](/entities/glorwoc/), which has also infected the [Mictlan](/entities/corpse-thing/) and shadow forces.
 
-Due to the infection of [GLORWOC](/entities/glorwoc/), an alliance has been forged by [Danny](/people/danny/) between [The Council](/unknown/the-council/), the Brownshirts, The Black-eyed Army, the [Mictlan](/entities/corpse-thing/) and the [Shadow Entities](/entities/shadow-entity). However, the compression of [The Crushing Fist](/unknown/the-crushing-fist/) has continued, resulting in dimensional ruptures and placing the generator mechanisms under further pressure.
+Due to the infection of [GLORWOC](/entities/glorwoc/), an alliance has been forged by [Danny](/people/danny/) between [The Council](/people/the-council/)), the Brownshirts, The Black-eyed Army, the [Mictlan](/entities/corpse-thing/) and the [Shadow Entities](/entities/shadow-entity). However, the compression of [The Crushing Fist](/unknown/the-crushing-fist/) has continued, resulting in dimensional ruptures and placing the generator mechanisms under further pressure.
 
 ## Evacuation of the Capital Temple
 

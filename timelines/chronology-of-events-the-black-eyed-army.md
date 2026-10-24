@@ -9,7 +9,7 @@ lastmod: 2026-10-23T00:00:00Z
 
 ## Foundation
 
-Encounter with the [Shadow Sphere](/unknown/shadow-sphere/) within [The Ink](/unknown/the-ink/) on [Earth 44](/worlds/earth-44/) by military personnel of [Command](/unknown/command/)
+Encounter with the [Shadow Sphere](/unknown/shadow-sphere/) within [The Ink](/unknown/the-ink/) on [Earth 44](/worlds/earth-44/) by military personnel of [Command](/people/command/))
 
 Creation of [The Black-eyed Army](/people/the-black-eyed-army/) through traversal via the [Shadow Sphere](/unknown/shadow-sphere/) to different realities. [The Sword](/people/ward-shaw-the-sword/) was also affected by change, but was in part preserved through the presence of the [Purple bio-stone](/devices/purple-bio-stone/) which kept [Cristina Thompson](/people/cristina-thompson/) in control of his actions. The [Purple bio-stone](/devices/purple-bio-stone/) also allowed [The Black-eyed Army](/people/the-black-eyed-army/) to escape the entities that were torturing them.
 
@@ -39,4 +39,4 @@ Agreement to rejoin humanity as part of the alliance forged by [Danny](/people/d
 
 Withdrawl from the [Capital Temple](/devices/capital-temple/) with all other non-[GLORWOC](/entities/glorwoc/) infected individuals
 
-Attachment to remaining human populations of [The Council](/unknown/the-council/), acting as defenders and guardians against the horrors of the multiverse, as well as trainers for [The New Exodus Vanguard](/people/the-new-exodus-vanguard/)
+Attachment to remaining human populations of [The Council](/people/the-council/)), acting as defenders and guardians against the horrors of the multiverse, as well as trainers for [The New Exodus Vanguard](/people/the-new-exodus-vanguard/)

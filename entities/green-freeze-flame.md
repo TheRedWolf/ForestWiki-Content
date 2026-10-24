@@ -5,6 +5,14 @@ pending: false
 lastmod: 2026-10-23T00:00:00Z
 ---
 
+**First Referenced:**
+
+'I think I may have missed the end of the world..... {Part ??}'
+
+**Additional References:**
+
+Our Final Acts (Part 7)
+
 First encountered in [Noah Fulmer's](/people/noah-fulmer) universe, these emerald green flames, rather than consuming their fuel, appear to take energy from their surroundings, resulting in a significant drop in temperature. Areas affected by such flames are usually covered in a thick layer of ice, and the fire itself is very difficult to contain.
 
 [Sentient Flames](/entities/sentient-flame) have been witnessed combating the freeze flames with some success. It is unknown whether the Green Freeze Flames are sentient or not.

@@ -23,7 +23,7 @@ Fifth and final encounter with the [Regeneration Core](/entities/regeneration-co
 
 ## Military Career
 
-Ceased working in construction and joined [Command](/unknown/command/).
+Ceased working in construction and joined [Command](/people/command/)).
 
 Achieved rank of Brigadier-General.
 
@@ -41,11 +41,11 @@ Under control of [Cristina Thompson](/people/cristina-thompson/), passed through
 
 ## Post Command Military Career
 
-Capture by [The First World](/worlds/the-first-world/) and forces of [Command](/unknown/command/). Imprisonment in [Teskoy Prison](/devices/teskoy-prison/).
+Capture by [The First World](/worlds/the-first-world/) and forces of [Command](/people/command/)). Imprisonment in [Teskoy Prison](/devices/teskoy-prison/).
 
-Encounter with [Conn Thompson](/people/conn-thompson/) and [Vasiliev Blaku](/people/vasiliev-blaku/) in [Teskoy Prison](/devices/teskoy-prison/). Attempt of interrogation using the [Soul Reader (Book)](/devices/soul-reader-book/) by [Conn Thompson](/people/conn-thompson/), triggering possession by the [Shadow Sphere](/unknown/shadow-sphere/) and subsequent destruction of the [Teskoy Prison](/devices/teskoy-prison/) gateway facility. Escape.
+Encounter with [Conn Thompson](/people/conn-thompson/) and [Vasiliev Blaku](/people/vasiliev-blaku/) in [Teskoy Prison](/devices/teskoy-prison/). Attempt of interrogation using the [Soul Reader (Book)](/devices/soul-reader-book/) by [Conn Thompson](/people/conn-thompson/), triggering possession by the [Shadow Sphere](/unknown/shadow-sphere/) and subsequent destruction of the [Teskoy Prison](/devices/teskoy-prison/) gateway facility. Escape to the surface of [Teskoy Prison](/devices/teskoy-prison/) and reunion with [Cristina Thompson](/people/cristina-thompson/).
 
-Voluntary return to [The First World](/worlds/the-first-world/), resulting in capture by the remnants of [Command](/unknown/command/) and subsequent attendance at trial.
+Voluntary return to [The First World](/worlds/the-first-world/), resulting in capture by the remnants of [Command](/people/command/)) and subsequent attendance at trial.
 
 Escape from trial due to complete collapse of society, brought on by the impending destruction of [The First World](/worlds/the-first-world/).
 

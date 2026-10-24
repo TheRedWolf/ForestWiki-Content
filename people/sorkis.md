@@ -15,9 +15,9 @@ lastmod: 2026-10-23T00:00:00Z
 
 Our Final Acts (Part 3)
 
-Sorkis was a member of [The Black-eyed Army](/people/the-black-eyed-army/), and previously part of [Command](/unknown/command/). While his past life is largely unknown, he is known to have previously had a child called Abby.
+Sorkis was a member of [The Black-eyed Army](/people/the-black-eyed-army/), and previously part of [Command](/people/command/)). While his past life is largely unknown, he is known to have previously had a child called Abby.
 
-Sorkis was originally a member of [Command](/unknown/command/), under Brigadier General [Ward Shaw (The Sword)](/people/ward-shaw-the-sword/). His loyalty was towards his country, although he had begun to doubt that his service was in the national interest prior to following the order to proceed through the [Shadow Sphere](/unknown/shadow-sphere/) to escape the rebels and military coup occurring on [Earth 44](/worlds/earth-44/). Transit through the [Shadow Sphere](/unknown/shadow-sphere/) transformed Sorkis, changing him into a member of [The Black-eyed Army](/people/the-black-eyed-army/), which stripped him of much of his empathy and humanity.
+Sorkis was originally a member of [Command](/people/command/)), under Brigadier General [Ward Shaw (The Sword)](/people/ward-shaw-the-sword/). His loyalty was towards his country, although he had begun to doubt that his service was in the national interest prior to following the order to proceed through the [Shadow Sphere](/unknown/shadow-sphere/) to escape the rebels and military coup occurring on [Earth 44](/worlds/earth-44/). Transit through the [Shadow Sphere](/unknown/shadow-sphere/) transformed Sorkis, changing him into a member of [The Black-eyed Army](/people/the-black-eyed-army/), which stripped him of much of his empathy and humanity.
 
 As part of [The Black-eyed Army](/people/the-black-eyed-army/), Sorkis fought in many battles with the aim of strengthening the [Outer Shield](/devices/outer-shield/), purely to deny the [Shadow Entities](/entities/shadow-entity/) the ability to prey on the weaker normal humans within. This aim later changed to one of pure survival, after the loss of [Ward Shaw (The Sword)](/people/ward-shaw-the-sword/) to capture by [The First World](/worlds/the-first-world/).
 

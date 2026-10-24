@@ -3,6 +3,7 @@ title: "The Council"
 draft: false
 pending: false
 lastmod: 2026-10-23T00:00:00Z
+aliases: ["/unknown/the-council/"]
 ---
 
 # The Council

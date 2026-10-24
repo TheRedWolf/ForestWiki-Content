@@ -3,6 +3,7 @@ title: "Bre'kat"
 draft: false
 pending: false
 lastmod: 2026-10-23T00:00:00Z
+aliases: ["/people/brekat/"]
 ---
 
 # Bre'kat

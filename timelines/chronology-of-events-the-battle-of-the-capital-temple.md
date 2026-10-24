@@ -37,9 +37,9 @@ Damage to one of the eight legs of the [Mictlan](/entities/corpse-thing/) contro
 
 Arrival of [GLORWOC](/entities/glorwoc/) through infected and delusional desolate guardian. [GLORWOC](/entities/glorwoc/) infection spread to the [Capital Temple](/devices/capital-temple/), [Mictlan](/entities/corpse-thing/) [Corpse-things](/entities/corpse-thing/) and Shadow Protuberance.
 
-Truce declared between [Shadow Entities](/entities/shadow-entity/), [The Black-eyed Army](/people/the-black-eyed-army/), the volunteer assault forces of [The Council](/unknown/the-council/), and the [Mictlan](/entities/corpse-thing/)
+Truce declared between [Shadow Entities](/entities/shadow-entity/), [The Black-eyed Army](/people/the-black-eyed-army/), the volunteer assault forces of [The Council](/people/the-council/)), and the [Mictlan](/entities/corpse-thing/)
 
-Alliance forged by [Danny](/people/danny/) between the [Shadow Entities](/entities/shadow-entity/), [The Black-eyed Army](/people/the-black-eyed-army/), [The Council](/unknown/the-council/) (representing humanity), the [Brownshirts](/races/brownshirt/), and the [Mictlan](/entities/corpse-thing/). Entry to the core of the [Capital Temple](/devices/capital-temple/) by all parties to the alliance.
+Alliance forged by [Danny](/people/danny/) between the [Shadow Entities](/entities/shadow-entity/), [The Black-eyed Army](/people/the-black-eyed-army/), [The Council](/people/the-council/)) (representing humanity), the [Brownshirts](/races/brownshirt/), and the [Mictlan](/entities/corpse-thing/). Entry to the core of the [Capital Temple](/devices/capital-temple/) by all parties to the alliance.
 
 Agreement by the new alliance to perform mass amputations, to prevent further spread of [GLORWOC](/entities/glorwoc/)
 
