@@ -15,7 +15,7 @@ lastmod: 2025-08-01T00:00:00Z
 
 The Crushing Fist (Part 2), Our Final Acts (Multiple parts)
 
-The Raving In-betweens are not a form of reality in their own right, rather they are the section of multi-dimensional space that exists between realities which have not been bridged through the use of [Portal](/devices/portal)s.
+The Raving In-betweens are not a form of reality in their own right, rather they are the section of multi-dimensional space that exists between realities which have not been bridged through the use of [Portals](/devices/portal).
 
 Typically, the Raving In-betweens would not be accessible, however due to the compression of [The Crushing Fist](/unknown/the-crushing-fist), cracks and fissures have formed in many realities within the [Outer Shield](/devices/outer-shield). Such fissures are characterized by a jagged purple glowing crack, which can be entered by people to travel between realities.
 

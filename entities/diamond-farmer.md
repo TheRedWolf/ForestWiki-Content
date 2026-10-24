@@ -17,4 +17,4 @@ Previously, diamond farmers had been attacked by people associated with [The Fir
 
 **Traits:**
 
-Crystalline, capable of flight in a fashion similar to the [Ruby Cube](/entities/ruby-cube)s. Able to generate significant electrical charge through piezoelectric action of the tentacles.
+Crystalline, capable of flight in a fashion similar to the [Ruby Cubes](/entities/ruby-cube). Able to generate significant electrical charge through piezoelectric action of the tentacles.

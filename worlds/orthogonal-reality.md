@@ -11,7 +11,7 @@ lastmod: 2025-08-01T00:00:00Z
 
 Our Final Acts (Part 7)
 
-The Orthogonal Reality is an artificial reality constructed as part of the overall shielded section of the multiverse comprising the [Outer Shield](/devices/outer-shield), [Inner Shield](/devices/inner-shield) and [Branch World](/worlds/branch-world)s. It also contains a control facility capable of interfacing with and interacting with the shield systems, as well as large technology repositories for unusual devices and technology that [Command](/people/command) was unable to effectively utilize when the system was first constructed. Its location and method of access is highly classified, to the point [Heath](/people/heath) has no information regarding the facility or its contents.
+The Orthogonal Reality is an artificial reality constructed as part of the overall shielded section of the multiverse comprising the [Outer Shield](/devices/outer-shield), [Inner Shield](/devices/inner-shield) and [Branch Worlds](/worlds/branch-world). It also contains a control facility capable of interfacing with and interacting with the shield systems, as well as large technology repositories for unusual devices and technology that [Command](/people/command) was unable to effectively utilize when the system was first constructed. Its location and method of access is highly classified, to the point [Heath](/people/heath) has no information regarding the facility or its contents.
 
 One feature of the Orthogonal Reality is that the human mind is unable to retain any memories of experiences when leaving the reality for another. [Cristina Thompson](/people/cristina-thompson) has previously visited the Orthogonal Reality, and acquired the [Soul Reader (Book)](/devices/soul-reader-book) while exploring.
 
